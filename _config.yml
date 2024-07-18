@@ -106,3 +106,13 @@ deploy:
   repo: git@github.com:huowenjie/huowenjie.github.io.git
   branch: hexo-blog
 
+# 插件
+Plugins:
+- hexo-generator-baidu-sitemap
+- hexo-generator-sitemap
+
+# 站点地图
+baidusitemap:
+    path: baidusitemap.xml
+sitemap:
+    path: sitemap.xml
