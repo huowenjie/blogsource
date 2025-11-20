@@ -11,6 +11,11 @@ author: 辽州小虾米
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
+#img
+favicon:
+  small: /image/logo/icon16x16.png
+  medium: /image/logo/icon.png
+
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://huowenjie.github.io
